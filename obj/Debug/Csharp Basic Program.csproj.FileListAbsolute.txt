@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\bin\Debug\Csharp Basic Program.exe.config
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\bin\Debug\Csharp Basic Program.exe
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\bin\Debug\Csharp Basic Program.pdb
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\obj\Debug\Csharp Basic Program.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\obj\Debug\Csharp Basic Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\obj\Debug\Csharp Basic Program.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\obj\Debug\Csharp Basic Program.exe
+C:\Users\ASUS\source\repos\Csharp Basic Program\Csharp Basic Program\obj\Debug\Csharp Basic Program.pdb
